@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Sanduni Hewagama!
+# 👋 Hi, I'm Sanduni !
 
 ## 🚀 Who Am I?  
 I am an **undergraduate student** at the **University of Moratuwa**, currently pursuing a **degree in Information Technology**. Passionate about technology and innovation, I enjoy exploring **software development, cloud computing, and AI-driven solutions**. I am always eager to learn new skills, contribute to open-source projects, and collaborate on exciting challenges. With a strong foundation in **web development, databases, and system design**, I aim to create impactful solutions that enhance user experiences and drive technological advancement.
