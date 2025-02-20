@@ -31,8 +31,8 @@ I am an **undergraduate student** at the **University of Moratuwa**, currently p
 ---
 
 ## 🏆 Top Repositories  
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-1&theme=radical)](https://github.com/yourusername/your-repo-1)  
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-2&theme=radical)](https://github.com/yourusername/your-repo-2)  
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=SanduniHewagama&repo=your-repo-1&theme=radical)](https://github.com/yourusername/your-repo-1)  
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=SanduniHewagama&repo=your-repo-2&theme=radical)](https://github.com/yourusername/your-repo-2)  
 
 ---
 
