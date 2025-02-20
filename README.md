@@ -31,7 +31,7 @@ I am an **undergraduate student** at the **University of Moratuwa**, currently p
 ---
 
 ## 🏆 Top Repositories  
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=SanduniHewagama&repo=VirtualCity&theme=radical)](https://github.com/SanduniHewagama/VirtualCity)  
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=SanduniHewagama&repo=Web-site-assignment_clothing-store&theme=radical)](https://github.com/SanduniHewagama/Web-site-assignment_clothing-store)  
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=SanduniHewagama&repo=ResQSense&theme=radical)](https://github.com/SanduniHewagama/ResQSense)  
 
 ---
