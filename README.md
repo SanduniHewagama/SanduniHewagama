@@ -32,16 +32,16 @@ I am an **undergraduate student** at the **University of Moratuwa**, currently p
 
 ## 🏆 Top Repositories  
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=SanduniHewagama&repo=Web-site-assignment_clothing-store&theme=radical)](https://github.com/SanduniHewagama/Web-site-assignment_clothing-store)  
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=SanduniHewagama&repo=ResQSense&theme=radical)](https://github.com/SanduniHewagama/ResQSense)  
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=SanduniHewagama&repo=BookShop-Frontend-Master&theme=radical)](https://github.com/SanduniHewagama/BookShop-Frontend-Master)  
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=SanduniHewagama&repo=BookShop-Backend-Master&theme=radical)](https://github.com/SanduniHewagama/BookShop-Backend-Master)  
 
 ---
 
 ## 📬 Wanna Connect With Me?  
 🌍 Reach out to me:  
-- ✉️ Email: [your.email@example.com](mailto:your.email@example.com)  
-- 💼 LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourusername)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- 📺 YouTube: [Your Channel](https://youtube.com/yourchannel)  
+- ✉️ Email: [hewagmasanduni2@gmail.com](mhewagmasanduni2@gmail.com)  
+- 💼 LinkedIn: [LinkedIn](https://linkedin.com/in/SanduniHewagma)  
+
 
 ---
 
