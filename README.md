@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Sanduni Hewagma!
 
-![Header](https://source.unsplash.com/1200x300/?technology,code)
+
 
 ## 🚀 Who Am I?  
 I am an **undergraduate student** at the **University of Moratuwa**, currently pursuing a **degree in Information Technology**. Passionate about technology and innovation, I enjoy exploring **software development, cloud computing, and AI-driven solutions**. I am always eager to learn new skills, contribute to open-source projects, and collaborate on exciting challenges. With a strong foundation in **web development, databases, and system design**, I aim to create impactful solutions that enhance user experiences and drive technological advancement.
@@ -20,7 +20,7 @@ I am an **undergraduate student** at the **University of Moratuwa**, currently p
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)  
+
 
 ---
 
@@ -33,13 +33,6 @@ I am an **undergraduate student** at the **University of Moratuwa**, currently p
 ## 🏆 Top Repositories  
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-1&theme=radical)](https://github.com/yourusername/your-repo-1)  
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-2&theme=radical)](https://github.com/yourusername/your-repo-2)  
-
----
-
-## 📝 Wanna Read My Articles?  
-📖 I love sharing my knowledge! Check out my latest blog posts:  
-- [🚀 Article 1](https://yourblog.com/article1)  
-- [📝 Article 2](https://yourblog.com/article2)  
 
 ---
 
