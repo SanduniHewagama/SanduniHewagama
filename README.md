@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Sanduni Hewagma!
-
-
+# 👋 Hi, I'm Sanduni Hewagama!
 
 ## 🚀 Who Am I?  
 I am an **undergraduate student** at the **University of Moratuwa**, currently pursuing a **degree in Information Technology**. Passionate about technology and innovation, I enjoy exploring **software development, cloud computing, and AI-driven solutions**. I am always eager to learn new skills, contribute to open-source projects, and collaborate on exciting challenges. With a strong foundation in **web development, databases, and system design**, I aim to create impactful solutions that enhance user experiences and drive technological advancement.
@@ -19,7 +17,6 @@ I am an **undergraduate student** at the **University of Moratuwa**, currently p
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
 
 
 ---
