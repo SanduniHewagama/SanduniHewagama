@@ -4,6 +4,13 @@
 <h3 align="center">💻 IT Undergraduate | 🚀 Full-Stack Developer | ☁️ AI & Cloud Enthusiast</h3>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SanduniHewagama&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+  <a href="https://github.com/SanduniHewagama?tab=followers"><img src="https://img.shields.io/github/followers/SanduniHewagama?label=Followers&style=flat&color=green" alt="followers"></a>
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-blueviolet" />
+  <img src="https://img.shields.io/badge/Learning-AI%20%26%20Cloud-orange" />
+</p>
+
 
 ## 📊 GitHub Stats  
 <p align="center">
